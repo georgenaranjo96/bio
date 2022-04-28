@@ -1,0 +1,9 @@
+a {
+  color: #ffffff;
+  text-decoration: blink;
+}
+
+a:hover {
+  color: #afece0;
+}
+
